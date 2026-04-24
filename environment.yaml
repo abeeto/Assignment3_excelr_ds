@@ -1,0 +1,14 @@
+name: excelr_ds
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - seaborn
+  - pandas
+  - jupyter
+  - numpy
+  - scikit-learn
+  - python=3.11
+  - plotly
+  - keras
+prefix: /Users/abhinavthota/miniconda3/envs/excelr_ds
